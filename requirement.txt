@@ -5,3 +5,4 @@ pip install langchain-chroma
 pip install PyMuPDF
 pip install re
 pip install youtube-transcript-api
+pip install ipykernel
