@@ -1,0 +1,7 @@
+pip install langchain-ollama
+pip install langchain-core
+pip install langchain-classic
+pip install langchain-chroma
+pip install PyMuPDF
+pip install re
+pip install youtube-transcript-api
